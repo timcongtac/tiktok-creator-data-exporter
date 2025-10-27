@@ -79,8 +79,8 @@ We may update this privacy policy from time to time. Any changes will be reflect
 ## Contact
 
 If you have questions about this privacy policy, please contact:
-- Email: [Your support email]
-- GitHub: [Your GitHub repository]
+- Email: timcongtac@gmail.com
+- GitHub: https://github.com/timcongtac/tiktok-creator-data-exporter
 
 ## Compliance
 
@@ -101,3 +101,4 @@ This extension is open source. You can review the code to verify:
 ---
 
 **Summary:** We collect NO personal data. All settings are stored locally. Scraped data goes directly to YOUR Google Sheets. We have no servers and no tracking.
+
